@@ -1,0 +1,48 @@
+body   {
+
+display: flex;
+flex-direction: column;
+flex: 1;
+}
+
+
+
+.One  .Two  .Three  .Four  {
+
+display: flex;
+flex-direction: row;
+border: 2px;
+/* margin: 40px; */
+}
+
+.One {
+background-color: #1F2937;
+color: #F9FAF8;
+margin: 40px;
+
+
+}
+
+.Two {
+    background-color: white;
+    margin: 40px;
+    }
+
+.Three {
+        background-color: #E5E7EB;
+        margin: 40px;
+        }
+
+ .Four {
+            background-color: #3882F6;
+            margin: 40px;
+            }
+
+
+footer {
+background-color: #1F2937;
+color: #F9FAF8;
+margin: 40px;
+
+
+}
